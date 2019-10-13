@@ -1,4 +1,4 @@
-OBJS=Tree.o main.o
+OBJS=terminal/Tree.o terminal/main.o
 CXXFLAGS=-O2 -std=c++11
 
 terminal: $(OBJS)
