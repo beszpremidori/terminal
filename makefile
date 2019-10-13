@@ -1,4 +1,4 @@
-DIR=termial
+DIR='termial'
 OBJS=DIR/Tree.o DIR/main.o
 CXXFLAGS=-O2 -std=c++11
 
